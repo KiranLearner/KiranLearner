@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
+![MasterHead width=500 height =500](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate individual with keen interest in providing technical support. Eager to apply knowledge and grow in this field</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"
