@@ -22,8 +22,8 @@
 <a href="https://codepen.io/dawki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dawki" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kirandeep-kaur-947a05260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedkirandeep-kaur-947a05260" height="30" width="40" /></a>
 </p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranlearner&" alt="kiranlearner" /></p> -->
-<p><a href="https://git.io/streak-stats"><img align ="center" src="https://streak-stats.demolab.com?user=KiranLearner&theme=dark" alt="GitHub Streak" /></a></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranlearner&" alt="kiranlearner" /></p>
+<!-- <p><a href="https://git.io/streak-stats"><img align ="center" src="https://streak-stats.demolab.com?user=KiranLearner&theme=dark" alt="GitHub Streak" /></a></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranlearner&show_icons=true&locale=en&layout=compact" alt="kiranlearner" /></p>
 
 
