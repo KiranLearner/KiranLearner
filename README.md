@@ -15,6 +15,10 @@
 <h3 align="left">Web languages</h3>
 <p align ="left"> HTML,CSS, Basic Javascript </p>
 
+<h3 align="left">Certifications </h3>
+<p align ="left"> <a href ="https://www.freecodecamp.org/certification/Kirandeep/responsive-web-design"> FreecodeCamp Web Design Certificate </a> </p>
+<p align ="left"> <a href ="https://www.linkedin.com/learning/certificates/8abacea9bcc15c7b76fc9cf9f9a6230c4b50af62d86f00a23b2f56f0b1e6401b?u=56972321">Learning PowerShell for Windows Server Administration </a> </p>
+
 <h3 align="left">Projects </h3>
 <a href="https://github.com/KiranLearner/server" ><p align ="left">Set up windows server and microsoft Exchange server </p></a>
 <h3 align="left">Connect with me:</h3>
