@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on <b>CompTIA A+ </b>
 
-🌱 I’m currently learning <b> Powershell </b>
+🌱 I’m currently learning <b> Javascript </b>
 
 
 <h3 align="left">Operating systems </h3>
