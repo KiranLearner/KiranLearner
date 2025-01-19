@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif"
 
 
- 🔭 I’m currently working on <b>CompTIA A+ </b>
+ 🔭 I’m currently working on <b>CompTIA Network+ </b>
 
 🌱 I’m currently learning <b> Javascript </b>
 
